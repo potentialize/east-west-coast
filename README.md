@@ -10,6 +10,9 @@ docker save <my_image> | ssh -C user@my.remote.host.com docker load
      does not build on its own
 3. Run image with `make run`
 
+# Hostfile
+Ubuntu host file is located at `etc/hosts`, added droplet instances on laptop
+
 
 
 ping -n -c 1 -W 1 -q 142.93.240.183
