@@ -14,28 +14,39 @@
 
 ### AMS to NYC
 - first time stamp: 1574672117
-- last time stamp:  1575213882    
+- last time stamp:  1575213882   
+- X̄ = 79.46
+- S = 0.6937
 
 ### NYC to AMS
 - first time stamp: 1574672115
 - last time stamp:  1575213617
+- X̄ = 79.42
+- S = 0.4502
 
 ### AMS to SANFRAN
 - first time stamp: 1574672117
 - last time stamp:  1575213883
+- X̄ = 154.44
+- S = 0.2484
 
 ### SANFRAN to AMS
 - first time stamp: 1574672116
 - last time stamp:  1575213762
+- X̄ = 154.43
+- S = 0.2310
 
 ### NYC to SANFRAN
 - first time stamp: 1574672115
 - last time stamp:  1575213616
+- X̄ = 75.85
+- S = 0.3811
 
 ### SANFRAN to NYC
 - first time stamp: 1574672116
 - last time stamp:  1575213763
-
+- X̄ = 154.43
+- S = 0.2310
 
 
 ## Graphs
