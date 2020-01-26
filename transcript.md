@@ -41,7 +41,7 @@ The direct distance between New York City and Amsterdam is
 
 So, if we get a response time below 20ms, something is
 definitely wrong! These numbers also serve as an ideal case
-to which we can compare the results.
+to which we can compare the results.)
 
 
 [slide]
@@ -77,8 +77,7 @@ This corresponds to more than 1.5 million pairs (time stamp + RTT) of data.
 
 # Results
 Now, before we start looking at the data, what do you guys guess,
-will the ping remain stable over time, or will there be a lot of
-spikes?
+will the ping remain stable over time, or will there be a lot of spikes?
 
 
 [slide]
@@ -93,15 +92,13 @@ I'm going to ask the same question again: stable or lots of spikes?
 Well, truth is the previous graph looks rather deceiving.
 In reality the connection is pretty stable.
 Problem with the previous graph is, every time a spike is drawn,
-the line is big that it also covers the neighboring tens of minutes.
+the line is so big that it also covers the neighboring tens of minutes.
 
 
 [slide]
 
 
-So I tinkered around a bit and settled on using a floating average
-for the 100 most recent points. It is still not perfect, but it
-shows a more nuanced image without hiding all the spikes.
+So I tinkered around a bit and settled on using a floating average for the 100 most recent points. It is still not perfect, but it shows a more nuanced image without hiding all the spikes.
 
 
 [slide]
